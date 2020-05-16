@@ -1,0 +1,6 @@
+# Python-DS
+Py Data Science...
+
+if .ipynb or jupyter notebook files not opening try using...
+
+https://nbviewer.jupyter.org/       <---- this link... and paste url of the file/repo there.
